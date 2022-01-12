@@ -26,8 +26,11 @@ Total accrued QB pts through week 6 - 52.16 An average of 8.69 per week
 
 ## The Code
 Ok to preface this a bit my code was written in haste. I had been working long hours during this time and I know this can be refined. But this worked for a quick answer. A couple of things:
+
 -I ignored any QB that one of the other teams in the league had rostered to start. For these first 6 weeks all 11 other teams used the same 11 starting QBs, so excused are the names to be removed from consideration
+
 -I ignored QBs that ended with less than 5 points. This was a quick method to remove from consideration any QB that I would likely never select. The data sheet I am using contains the names of all 128 1st-4th string QBs for each team. Obviously there are many on here I do not need to waste time looking at, but I don't want to completely ignore the possibility of picking a dark horse. This way is much quicker than going week by week and picking QBs I would have possibly considered.
+
 -I only considered unique combinations of QBs, not allowing combinations of QBs throughout weeks as up to this point that is how I had run my QBs.
 
 I downloaded data for the total points per QB from a website week by week. The code first imports these files and creates a dict to store the data by player name (playerStats).
