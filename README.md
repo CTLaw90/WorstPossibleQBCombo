@@ -60,7 +60,7 @@ The following two graphs show my scores against the other QBs in my league and t
 
 The next bar graph shows my total points against the total points of each opponents QBs. All these QBs played all 6 weeks except Wilson, who only had 5 games.
 
-![alt text](./graphs/myselect.png)
+![alt text](./graphs/mysel.png)
 
 This shows my score against various averages. I have included the median of both the Unique and Non-Unique data sets. Interestingly, the Non-Unique data set has a slightly higher median and as we will see shortly, higher standard deviations.
 
