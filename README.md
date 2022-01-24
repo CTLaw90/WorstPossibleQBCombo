@@ -67,7 +67,7 @@ This shows my score against various averages. I have included the median of both
 ![alt text](./graphs/varavg.png)
 
 This is the distribution curve for the Unique data set. I took plot points at every 10,000 entries and normalized them through the scipy.stats.norm function. The 
-additional colored dots represent the first, second and third standard deviations. My data sits snugly up against that lower third deviation.
+additional colored dots represent the first, second and third standard deviations. My data sits against that lower third deviation.
 
 ![alt text](./graphs/uniquedist.png)
 
