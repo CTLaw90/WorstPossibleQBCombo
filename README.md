@@ -35,13 +35,13 @@ I use target, wk and unique to determine what the code is looking for. Excused i
 The biggest issue with this code is the run-time. When considering 6 weeks Non-Unique, we are looking at nearly 60,000,000 combinations. This takes large amounts of data and a large amount of time to compute. The runtime sits at O(QBs^wks).  Considering combinations of scores beyond wk 6 would take far more time than anyone would really care to wait. Next step for refining this code is finding a faster, more efficient algorithm. 
 
 ## Results
-For only considering Unique combinations, my selection ranked:
+For only considering Unique combinations, my selection ranked: 178,938 of 29,684,354 permutations
 
-This puts it in the bottom x% percentile for all Unique combinations
+This puts it in the bottom 0.6% for all Unique combinations.
 
-For Non-Unique combinations:
+For Non-Unique combinations: 319,938 of  59,976,000 permutations
 
-Respectively the bottom x%.
+Respectively the bottom 0.5%.
 
 Remarkable.
 
