@@ -79,6 +79,16 @@ The last graph I have is my selection total against the distribution curve again
 
 ![alt text](./graphs/startingqbdist.png)
 
+Lastly, I wanted to include the worst and best scoring combinations.
+
+For Unique combinations:
+-  14.5, 'Andy Dalton (CHI)', 'Tua Tagovailoa (MIA)', 'Zach Wilson (NYJ)', 'Davis Mills (HOU)', 'Sam Darnold (CAR)', 'Daniel Jones (NYG)' 
+-  184.7, 'Jameis Winston (NO)', 'Daniel Jones (NYG)', 'Sam Darnold (CAR)', 'Matt Ryan (ATL)', 'Justin Herbert (LAC)', 'Kirk Cousins (MIN)'
+
+For Non-Unique combinations:
+-  13.2, 'Andy Dalton (CHI)', 'Tua Tagovailoa (MIA)', 'Zach Wilson (NYJ)', 'Davis Mills (HOU)', 'Daniel Jones (NYG)', 'Daniel Jones (NYG)'
+-  192.7, 'Jameis Winston (NO)', 'Daniel Jones (NYG)', 'Justin Herbert (LAC)', 'Sam Darnold (CAR)', 'Justin Herbert (LAC)', 'Kirk Cousins (MIN)'
+
 ## Final Thoughts
 I picked bad. For someone actually trying to score points, I managed to do incredibly poor at it.
 
