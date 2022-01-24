@@ -35,13 +35,13 @@ I use target, wk and unique to determine what the code is looking for. Excused i
 The biggest issue with this code is the run-time. When considering 6 weeks Non-Unique, we are looking at nearly 60,000,000 combinations. This takes large amounts of data and a large amount of time to compute. The runtime sits at O(QBs^wks).  Considering combinations of scores beyond wk 6 would take far more time than anyone would really care to wait. Next step for refining this code is finding a faster, more efficient algorithm. 
 
 ## Results
-For only considering Unique combinations, my selection ranked: 178,938 of 29,684,354 permutations
+For only considering Unique combinations, my selection ranked: 224,654 of 29,684,354 permutations
 
-This puts it in the bottom 0.6% for all Unique combinations.
+This puts it in the bottom 0.76% for all Unique combinations.
 
-For Non-Unique combinations: 319,938 of  59,976,000 permutations
+For Non-Unique combinations: 400,780 of  59,976,000 permutations
 
-Respectively the bottom 0.5%.
+Respectively the bottom 0.67%.
 
 Remarkable.
 
@@ -82,12 +82,13 @@ The last graph I have is my selection total against the distribution curve of QB
 Lastly, I wanted to include the worst and best scoring combinations.
 
 For Unique combinations:
--  14.5, 'Andy Dalton (CHI)', 'Tua Tagovailoa (MIA)', 'Zach Wilson (NYJ)', 'Davis Mills (HOU)', 'Sam Darnold (CAR)', 'Daniel Jones (NYG)' 
--  184.7, 'Jameis Winston (NO)', 'Daniel Jones (NYG)', 'Sam Darnold (CAR)', 'Matt Ryan (ATL)', 'Justin Herbert (LAC)', 'Kirk Cousins (MIN)'
+- 14.5, 'Andy Dalton (CHI)', 'Tua Tagovailoa (MIA)', 'Zach Wilson (NYJ)', 'Davis Mills (HOU)', 'Jared Goff (DET)', 'Daniel Jones (NYG)'
+- 167.0, 'Jared Goff (DET)', 'Daniel Jones (NYG)', 'Sam Darnold (CAR)', 'Matt Ryan (ATL)', 'Jameis Winston (NO)', 'Kirk Cousins (MIN)'
+
 
 For Non-Unique combinations:
--  13.2, 'Andy Dalton (CHI)', 'Tua Tagovailoa (MIA)', 'Zach Wilson (NYJ)', 'Davis Mills (HOU)', 'Daniel Jones (NYG)', 'Daniel Jones (NYG)'
--  192.7, 'Jameis Winston (NO)', 'Daniel Jones (NYG)', 'Justin Herbert (LAC)', 'Sam Darnold (CAR)', 'Justin Herbert (LAC)', 'Kirk Cousins (MIN)'
+- 13.2, 'Andy Dalton (CHI)', 'Tua Tagovailoa (MIA)', 'Zach Wilson (NYJ)', 'Davis Mills (HOU)', 'Daniel Jones (NYG)', 'Daniel Jones (NYG)'
+- 170.2, 'Jameis Winston (NO)', 'Daniel Jones (NYG)', 'Sam Darnold (CAR)', 'Sam Darnold (CAR)', 'Jameis Winston (NO)', 'Kirk Cousins (MIN)'
 
 ## Final Thoughts
 I picked bad. For someone actually trying to score points, I managed to do incredibly poor at it.
