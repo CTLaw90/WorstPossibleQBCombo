@@ -6,17 +6,17 @@ I decided I needed some numbers to illustrate just how bad I had been so far. So
 ## My Team
 Before diving into the code, here is the team I ran for the first 6 weeks and the points they accrued:
 
-1)Matt Ryan - 7.36pts             ESPN Projected - 16.5
+1) Matt Ryan - 7.36pts             ESPN Projected - 16.5
 
-2)Mac Jones - 7.44pts  ESPN Projected - 16.3
+2) Mac Jones - 7.44pts  ESPN Projected - 16.3
 
-3)Teddy Bridgewater - 11.8pts  ESPN Projected - 18.1
+3) Teddy Bridgewater - 11.8pts  ESPN Projected - 18.1
 
-4)Kirk Cousins - 10.12pts  ESPN Projected - 17.8
+4) Kirk Cousins - 10.12pts  ESPN Projected - 17.8
 
-5)Sam Darnold - 6.08pts  ESPN Projected - 19.2
+5) Sam Darnold - 6.08pts  ESPN Projected - 19.2
 
-6)Taylor Heineke - 9.28pts  ESPN Projected - 20.3
+6) Taylor Heinicke - 9.28pts  ESPN Projected - 20.3
 
 Total accrued QB pts through week 6 - 52.16 An average of 8.69 per week
 
