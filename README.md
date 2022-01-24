@@ -50,34 +50,34 @@ Now! Let’s look at some graphs.
 The following graphs were all built with matplotlib. The code is contained in the jupyter notebook file included in this repo.
 The solid magenta line are my selections against some various data. First is the QBs I ran full 6 weeks. There was only 1 QB who had a worse week than the week I played him, Teddy Bridgewater. The orange line in this is the ESPN projected points for the QB I ran each week. I used this number as the biggest factor in considering who to run. This number does seem to run close to the middle of the average despite my ever growing distrust of the number.
 
-![alt text](./graphs/myqbs.png)
+![alt text](./img/myqbs.png)
 
 The following two graphs show my scores against the other QBs in my league and the total roster of starting QBs. Everyone else in my league stuck with one QB all 6 weeks with one exception. The person who started Russell Wilson switched to Derek Carr after the injury in week 5. 
 
-![alt text](./graphs/oqbs.png)
+![alt text](./img/oqbs.png)
 
-![alt text](./graphs/allqbs.png)
+![alt text](./img/allqbs.png)
 
 The next bar graph shows my total points against the total points of each opponents QBs. All these QBs played all 6 weeks except Wilson, who only had 5 games.
 
-![alt text](./graphs/mysel.png)
+![alt text](./img/mysel.png)
 
 This shows my score against various averages. I have included the median of both the Unique and Non-Unique data sets. Interestingly, the Non-Unique data set has a slightly higher median and as we will see shortly, higher standard deviations.
 
-![alt text](./graphs/varavg.png)
+![alt text](./img/varavg.png)
 
 This is the distribution curve for the Unique data set. I took plot points at every 10,000 entries and normalized them through the scipy.stats.norm function. The 
 additional colored dots represent the first, second and third standard deviations. My data sits against that lower third deviation.
 
-![alt text](./graphs/uniquedist.png)
+![alt text](./img/uniquedist.png)
 
 Next I compare the previous curve with the curve of the Non-Unique combinations in orange. As mentioned earlier the median sits slightly higher than the previous. The standard deviations all sit slightly higher as well.
 
-![alt text](./graphs/nonuniquedist.png)
+![alt text](./img/nonuniquedist.png)
 
 The last graph I have is my selection total against the distribution curve of QBs who played all 6 weeks. 
 
-![alt text](./graphs/startingqbdist.png)
+![alt text](./img/startingqbdist.png)
 
 Lastly, I wanted to include the worst and best scoring combinations.
 
