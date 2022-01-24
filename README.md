@@ -75,7 +75,7 @@ Next I compare the previous curve with the curve of the Non-Unique combinations 
 
 ![alt text](./graphs/nonuniquedist.png)
 
-The last graph I have is my selection total against the distribution curve against QBs who played all 6 weeks. 
+The last graph I have is my selection total against the distribution curve of QBs who played all 6 weeks. 
 
 ![alt text](./graphs/startingqbdist.png)
 
