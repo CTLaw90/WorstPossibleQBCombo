@@ -4,7 +4,7 @@ Just how bad were my first 6 weeks of fantasy qb selection? Let's find out!
 This year (2021) was my first year participating in a NFL fantasy league. I have only vaguely paid attention to the NFL in the past so going into this year I had a lot of figuring out to do. I prioritized basically everything except a QB during the draft and grabbed a handful of mid-tier QBs... I ended up rotating through a good number of QBs through the early part of the season.... each week electing to pick someone new in hopes that they would bring greater fortune. By week 3 rumors of a curse had begun. By week 5 it seemed all but assured. People were reaching out to me to start their NFL teams' opponents in hopes it would bring their team victory. After another upsetting week 6, I decided I needed to know how bad my choices were. Surely something magical has happened. How could someone, actually trying quite hard to pick correctly, pick so bad so consistently? By this week I had played 6 different QBs. 5 weeks had been each QBs worst week so far and the last week was only that QBs second worst week...
 I decided I needed some numbers to illustrate just how bad I had been so far. So I wrote some code!
 ## My Team
-Before diving into the code, here is the team I ran for the first 6 weeks and the points they accrued:
+Before diving into the code, here is the team I ran for the first 6 weeks and the points they accrued. My league scoring is PPR, 0.04pt per passing yd, 6pt td and a -2 penalty for INT.
 
 1) Matt Ryan - 7.36pts             ESPN Projected - 16.5
 
